@@ -2,10 +2,10 @@
 
 A mobile application built using React Native.
 
-![screenshots of homepage](https://sondos.s3.ca-central-1.amazonaws.com/images/home.png)
-![screenshots of homepage](https://sondos.s3.ca-central-1.amazonaws.com/images/Screen+Shot+2021-01-31+at+5.07.36+PM.png)
-![screenshots of homepage](https://sondos.s3.ca-central-1.amazonaws.com/images/Screen+Shot+2021-01-31+at+5.07.47+PM.png)
-![screenshots of homepage](https://sondos.s3.ca-central-1.amazonaws.com/images/Screen+Shot+2021-01-31+at+5.07.55+PM.png)
+![screenshots of homepage](https://sondos.s3.ca-central-1.amazonaws.com/images/homepage.png)
+![screenshots of homepage](https://sondos.s3.ca-central-1.amazonaws.com/images/artistpage.png)
+![screenshots of homepage](https://sondos.s3.ca-central-1.amazonaws.com/images/trackpage.png)
+![screenshots of homepage](https://sondos.s3.ca-central-1.amazonaws.com/images/albumspage.png)
 
 
 ## Features
