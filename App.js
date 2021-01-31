@@ -1,10 +1,11 @@
 import * as React from 'react';
+import { Screen, screensEnabled } from 'react-native-screens';
 import { NavigationContainer } from '@react-navigation/native';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
-import SearchScreen from './src/screens/SearchScreen';
-import TrackScreen from './src/screens/TrackScreen';
-import AlbumsScreen from './src/screens/AlbumsScreen';
-import ArtistsScreen from './src/screens/ArtistsScreen';
+import SearchScreen from './src/screens/SearchScreen.tsx';
+import TrackScreen from './src/screens/TrackScreen.tsx';
+import AlbumsScreen from './src/screens/AlbumsScreen.tsx';
+import ArtistsScreen from './src/screens/ArtistsScreen.tsx';
 import { MaterialIcons } from '@expo/vector-icons';
 import  { StyleSheet } from 'react-native';
 
