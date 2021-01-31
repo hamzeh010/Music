@@ -1,4 +1,4 @@
-# React Native Activity Feed Example
+# React Native Music app
 
 A mobile application built using React Native.
 
