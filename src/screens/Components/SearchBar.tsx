@@ -30,7 +30,6 @@ const styles = StyleSheet.create({
         marginHorizontal:10,
     },
     searchInput:{
-
         flex:1,
     },
 
