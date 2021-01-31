@@ -33,7 +33,7 @@ A mobile application built using React Native.
 ### 1. Install dependencies
 
 ```sh
-# Clone the example app repo
+# Clone the Music app repo
 git clone https://github.com/hamzeh010/Music.git
 cd Music
 
