@@ -2,7 +2,8 @@
 
 A mobile application built using React Native.
 
-![screenshots of example app](/images/screenshots@2x.png| width=100)
+![screenshots of example app]
+<img src="https://sondos.s3.ca-central-1.amazonaws.com/images/Screen+Shot+2021-01-31+at+5.07.27+PM.png" width="100" height="100">
 
 ## Features
 
