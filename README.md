@@ -3,16 +3,16 @@
 A mobile application built using React Native.
 
 ![screenshots of home-page](https://sondos.s3.ca-central-1.amazonaws.com/images/homepage.png)
-
+<br /><br />
 
 ![screenshots of artists-page](https://sondos.s3.ca-central-1.amazonaws.com/images/artistpage.png)
-
+<br /><br />
 
 ![screenshots of track-page](https://sondos.s3.ca-central-1.amazonaws.com/images/trackpage.png)
-
+<br /><br />
 
 ![screenshots of albums-page](https://sondos.s3.ca-central-1.amazonaws.com/images/albumspage.png)
-
+<br /><br />
 
 ## Features
 
